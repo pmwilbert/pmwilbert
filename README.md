@@ -1,4 +1,6 @@
-<marquee>Here are some ideas to get you started:</marquee>
+Here are some ideas to get you started:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
